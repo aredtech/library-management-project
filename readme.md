@@ -11,5 +11,5 @@ A tkinter (Python) based GUI software made for a project work given by ducat. Ma
 
 
 ### How to Setup the Database for the Software?
-#### Read the readme.md
+#### Execute the database_creation.py step by step
 
